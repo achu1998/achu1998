@@ -105,7 +105,7 @@ Here are some ideas to get you started:
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/achu1998"><img alt="Ashween's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=achu1998&custom_title=Ashween's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/achu1998"><img alt="Ashween's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=achu1998&custom_title=Ashween's%20Contribution%20Graph&theme=github-compact" /></a>
   <br/>
 
 </details>
