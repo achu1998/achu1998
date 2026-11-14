@@ -21,8 +21,8 @@ I have 4+ years of experience building production software. At EduBrite (later a
 ### 🚀 Full-stack, in production
 
 - **[Next Stop Adelaide](https://ashween.space/projects/next-stop-adelaide)** · [live ↗](https://next-stop-zeta-nine.vercel.app): pick your bus or tram stop and lock your phone. A Cloudflare Worker follows the vehicle on Adelaide Metro's live feeds and sends push notifications 2–5 minutes before you arrive.
-- **[TracePay](https://ashween.space/projects/tracepay)**: every Apple Pay tap goes to a webhook through iOS Shortcuts. A Next.js dashboard breaks spending down by category and merchant, flags duplicate taps, and exports statements in 5 languages.
-- **[Splitkit](https://ashween.space/projects/splitkit)**: group expense splitting with no sign-up wall, multi-currency support, and a debt-simplification algorithm that settles a group in at most n − 1 payments.
+- **[TracePay](https://ashween.space/projects/tracepay)** · [live ↗](https://tracepay-eight.vercel.app): every Apple Pay tap goes to a webhook through iOS Shortcuts. A Next.js dashboard breaks spending down by category and merchant, flags duplicate taps, and exports statements in 5 languages.
+- **[Splitkit](https://ashween.space/projects/splitkit)** · [live ↗](https://splitkit-gray.vercel.app): group expense splitting with no sign-up wall, multi-currency support, and a debt-simplification algorithm that settles a group in at most n − 1 payments.
 - **[MigraTrack AU](https://ashween.space/projects/migratrack-au)**: tracks SkillSelect EOI invitations by occupation, points and state, with points calculators for every state and territory.
 - **[MyOrbit](https://ashween.space/projects/myorbit)**: a $0 self-hosted cloud drive that runs on one Mac. I hand-wrote the WebDAV server so it mounts in Finder, Explorer and Linux. It sits behind Cloudflare Tunnel and Access.
 
