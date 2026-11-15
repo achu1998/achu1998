@@ -2,7 +2,7 @@
 
 **Software engineer who ships full-stack products and fine-tunes the models behind them.**
 
-I have 4+ years of experience building production software. At EduBrite (later acquired by LinkedIn) I worked on a SaaS LMS used by Salesforce and VMware. During my Master's at the University of Adelaide I trained LLMs to find vulnerabilities in smart contracts. Today I deliver **full-stack products end-to-end, from database design to user interface**, with a focus on performance, security and reliable releases, and I'm most interested in **using AI and LLMs to automate workflows and solve real-world problems.**
+I have 4+ years of experience building production software. At EduBrite (later acquired by LinkedIn) I worked on a SaaS LMS used by Salesforce and VMware. During my Master's at the University of Adelaide I trained LLMs to find vulnerabilities in smart contracts. Today I **build and ship full-stack products end-to-end, from database design to user interface**, with a focus on performance, security and reliable releases, and **bring in AI and LLMs where they make the product better.**
 
 📍 Adelaide, Australia · 🟢 Open to Software Engineer roles in Adelaide or anywhere in Australia · ✈️ Ready to relocate immediately · Hybrid or Remote
 
