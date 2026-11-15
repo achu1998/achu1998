@@ -62,7 +62,7 @@ I have 4+ years of experience building production software. At EduBrite (later a
 **DevOps & Developer Tools** Docker · Jenkins · Git · SVN · Jira · Pytest · Ansible · Linux · Agile
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,java,js,php,laravel,spring,django,vue,nuxtjs,jquery,html,css,pytorch,sklearn,opencv,mysql,mongodb,aws,docker,jenkins,git,linux&perline=11" alt="Python, Java, JavaScript, PHP, Laravel, Spring, Django, Vue.js, Nuxt.js, jQuery, HTML, CSS, PyTorch, Scikit-learn, OpenCV, MySQL, MongoDB, AWS, Docker, Jenkins, Git, Linux" />
+  <img src="https://skillicons.dev/icons?i=py,java,js,php,laravel,spring,django,vue,nuxtjs,jquery,html,css,pytorch,sklearn,opencv,mysql,mongodb,aws,docker,jenkins,git,linux&perline=22" alt="Python, Java, JavaScript, PHP, Laravel, Spring, Django, Vue.js, Nuxt.js, jQuery, HTML, CSS, PyTorch, Scikit-learn, OpenCV, MySQL, MongoDB, AWS, Docker, Jenkins, Git, Linux" />
 </p>
 
 ---
