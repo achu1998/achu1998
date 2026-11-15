@@ -54,14 +54,15 @@ I have 4+ years of experience building production software. At EduBrite (later a
 
 ### 🧰 Stack
 
-**Frontend** TypeScript · React · Next.js · Vue.js · Nuxt · Svelte · Tailwind CSS<br>
-**Backend** Java · Spring · Hibernate · REST APIs · Python · Django · Node.js · Fastify · PHP/Laravel<br>
-**Data** PostgreSQL (Supabase) · MySQL · MongoDB · SQLite<br>
-**AI/ML** PyTorch · Hugging Face · LoRA · TRL (RLHF) · LangChain · ChromaDB · Ollama · OpenCV<br>
-**Cloud & Ops** AWS · Azure · Vercel · Cloudflare Workers · Docker · Ansible · GitHub Actions
+**Programming Languages** Python · Java · JavaScript · PHP<br>
+**Backend** Laravel · Spring · Hibernate · Django · Apache Velocity · JSP<br>
+**Frontend** Vue.js · Nuxt.js · jQuery · HTML · CSS<br>
+**AI / ML** PyTorch · Hugging Face · LangChain · LangGraph · RAG · Scikit-learn · OpenCV<br>
+**Databases & Cloud** MySQL · MongoDB · AWS S3 · REST APIs<br>
+**DevOps & Developer Tools** Docker · Jenkins · Git · SVN · Jira · Pytest · Ansible · Linux · Agile
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,svelte,tailwind,java,spring,python,django,nodejs,laravel,postgres,supabase,pytorch,aws,cloudflare,vercel,docker&perline=19" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=py,java,js,php,laravel,spring,django,vue,nuxtjs,jquery,html,css,pytorch,sklearn,opencv,mysql,mongodb,aws,docker,jenkins,git,linux&perline=11" alt="Python, Java, JavaScript, PHP, Laravel, Spring, Django, Vue.js, Nuxt.js, jQuery, HTML, CSS, PyTorch, Scikit-learn, OpenCV, MySQL, MongoDB, AWS, Docker, Jenkins, Git, Linux" />
 </p>
 
 ---
