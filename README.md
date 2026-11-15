@@ -20,14 +20,6 @@ I have 4+ years of experience building production software. At EduBrite (later a
 
 <sub>Earlier: ICU Medical (Pytest suites for the Plum 360 Smart Infusion Pump, raising line coverage from 54% to 72%) · IIT (ISM) Dhanbad research intern · Hundred Plus · [full resume](https://ashween.space/resume "Ctrl/Cmd-click to open in a new tab")</sub>
 
-### 🔬 Research: the numbers
-
-| Project | What it does | Result |
-|---|---|---|
-| [**Reentrancy Vulnerability Detection**](https://ashween.space/projects/smart-contract-reentrancy "Ctrl/Cmd-click to open in a new tab") <br><sub>Master's thesis · shipped on [CyberLab](https://maennel.ai/cyberlab/ "Ctrl/Cmd-click to open in a new tab")</sub> | LoRA fine-tuned LLM classifier for Solidity smart contracts, packaged as a containerised tool | **91.6% accuracy**, up from 70% with classical ML |
-| [**RLHF for Small Language Models**](https://ashween.space/projects/rlhf-small-language-models "Ctrl/Cmd-click to open in a new tab") | End-to-end SFT → reward model → PPO for models under 2B parameters, on consumer GPUs | Reward **24.25 → 41.25** with drift controlled and safety refusals intact |
-| [**MITRE ATT&CK RAG Assistant**](https://ashween.space/projects/mitre-attack-rag "Ctrl/Cmd-click to open in a new tab") | RAG over all 697 ATT&CK Enterprise techniques with 4-bit Mistral-7B | **0.816 faithfulness**, and every answer is traceable to a technique ID |
-
 ### 🚀 Full-stack, in production
 
 - **[Next Stop Adelaide](https://ashween.space/projects/next-stop-adelaide "Ctrl/Cmd-click to open in a new tab")** · [live ↗](https://next-stop-zeta-nine.vercel.app "Ctrl/Cmd-click to open in a new tab"): pick your bus or tram stop and lock your phone. A Cloudflare Worker follows the vehicle on Adelaide Metro's live feeds and sends push notifications 2–5 minutes before you arrive.
@@ -35,6 +27,14 @@ I have 4+ years of experience building production software. At EduBrite (later a
 - **[Splitkit](https://ashween.space/projects/splitkit "Ctrl/Cmd-click to open in a new tab")** · [live ↗](https://splitkit-gray.vercel.app "Ctrl/Cmd-click to open in a new tab"): group expense splitting with no sign-up wall, multi-currency support, and a debt-simplification algorithm that settles a group in at most n − 1 payments.
 - **[MigraTrack AU](https://ashween.space/projects/migratrack-au "Ctrl/Cmd-click to open in a new tab")** · [live ↗](https://migratrackau.ashween.space/public "Ctrl/Cmd-click to open in a new tab"): tracks SkillSelect EOI invitations by occupation, points and state, with points calculators for every state and territory.
 - **[MyOrbit](https://ashween.space/projects/myorbit "Ctrl/Cmd-click to open in a new tab")**: a $0 self-hosted cloud drive that runs on one Mac. I hand-wrote the WebDAV server so it mounts in Finder, Explorer and Linux. It sits behind Cloudflare Tunnel and Access.
+
+### 🔬 Research: the numbers
+
+| Project | What it does | Result |
+|---|---|---|
+| [**Reentrancy Vulnerability Detection**](https://ashween.space/projects/smart-contract-reentrancy "Ctrl/Cmd-click to open in a new tab") <br><sub>Master's thesis · shipped on [CyberLab](https://maennel.ai/cyberlab/ "Ctrl/Cmd-click to open in a new tab")</sub> | LoRA fine-tuned LLM classifier for Solidity smart contracts, packaged as a containerised tool | **91.6% accuracy**, up from 70% with classical ML |
+| [**RLHF for Small Language Models**](https://ashween.space/projects/rlhf-small-language-models "Ctrl/Cmd-click to open in a new tab") | End-to-end SFT → reward model → PPO for models under 2B parameters, on consumer GPUs | Reward **24.25 → 41.25** with drift controlled and safety refusals intact |
+| [**MITRE ATT&CK RAG Assistant**](https://ashween.space/projects/mitre-attack-rag "Ctrl/Cmd-click to open in a new tab") | RAG over all 697 ATT&CK Enterprise techniques with 4-bit Mistral-7B | **0.816 faithfulness**, and every answer is traceable to a technique ID |
 
 ### 🧠 Local-first LLM apps
 
