@@ -12,6 +12,14 @@ I have 4+ years of experience building production software. At EduBrite (later a
 
 ---
 
+### 💼 Where I've shipped
+
+- **Allied AU** · Software Engineer Intern (2025): built Medicare, NDIS and private pricing for in-clinic, in-home and telehealth sessions, and drag-and-drop calendar rescheduling, on a Laravel + Nuxt.js allied-health platform. Shipped 49 changes through GitLab CI/CD.
+- **LinkedIn** · Software Engineer (Contingent Worker) (2022–24): built checkout, subscription and invoice workflows for Salesforce's Trailhead Academy with CyberSource payments. Sped up slow pages by rewriting database queries and closed a DOM-based XSS vulnerability.
+- **EduBrite Systems** (acquired by LinkedIn) · Full-Stack Developer (2020–22): built LMS modules for Salesforce and VMware, an event-driven email notification engine, and QR-code leak detection for assessments.
+
+<sub>Earlier: ICU Medical (Pytest suites for the Plum 360 Smart Infusion Pump, raising line coverage from 54% to 72%) · IIT (ISM) Dhanbad research intern · Hundred Plus · [full resume](https://ashween.space/resume "Ctrl/Cmd-click to open in a new tab")</sub>
+
 ### 🔬 Research: the numbers
 
 | Project | What it does | Result |
@@ -36,14 +44,6 @@ I have 4+ years of experience building production software. At EduBrite (later a
 - **[StudyBuddy](https://github.com/achu1998/study-buddy "Ctrl/Cmd-click to open in a new tab")**: turns course PDFs into offline study sessions with summaries, MCQs and Socratic prompts.
 
 <sub>Also: [LiveWell](https://ashween.space/projects/livewell "Ctrl/Cmd-click to open in a new tab") · [Age-Based Face Anonymisation](https://ashween.space/projects/video-face-anonymization "Ctrl/Cmd-click to open in a new tab") · [Flappy Bird RL Environment](https://ashween.space/projects/flappy-bird-rl "Ctrl/Cmd-click to open in a new tab"). All 17 projects: **[ashween.space/projects](https://ashween.space/projects "Ctrl/Cmd-click to open in a new tab")**</sub>
-
-### 💼 Where I've shipped
-
-- **Allied AU** · SWE Intern (2025): AWS SES notifications, practitioner calendar and search on a Nuxt + Laravel health platform. Fixed NDIS booking and sign-up flows.
-- **LinkedIn** · Software Engineer (Contingent Worker) (2022–24): led enhancements on Salesforce Trailhead Academy. Built QR-code cheat detection for LinkedIn Learning assessments.
-- **EduBrite Systems** (acquired by LinkedIn) · Full-Stack Developer (2020–22): built SaaS LMS features for Salesforce and VMware.
-
-<sub>Earlier: ICU Medical (Pytest suites for the Plum 360 Smart Infusion Pump, raising line coverage from 54% to 72%) · IIT (ISM) Dhanbad research intern · Hundred Plus · [full resume](https://ashween.space/resume "Ctrl/Cmd-click to open in a new tab")</sub>
 
 ### 🧰 Stack
 
