@@ -2,7 +2,7 @@
 
 **Software engineer who ships full-stack products and fine-tunes the models behind them.**
 
-I have 4+ years of experience building production software. At EduBrite (later acquired by LinkedIn) I worked on a SaaS LMS used by Apple, Salesforce, MuleSoft and VMware. During my Master's at the University of Adelaide I trained LLMs to find vulnerabilities in smart contracts. Now I build **full-stack apps on Next.js and TypeScript, local-first LLM tools, and AI for security.**
+I have 4+ years of experience building production software. At EduBrite (later acquired by LinkedIn) I worked on a SaaS LMS used by Salesforce and VMware. During my Master's at the University of Adelaide I trained LLMs to find vulnerabilities in smart contracts. Now I build **full-stack apps on Next.js and TypeScript, local-first LLM tools, and AI for security.**
 
 📍 Adelaide, Australia · 🟢 Open to SWE / AI-ML roles anywhere in Australia · ✈️ Ready to relocate immediately · Hybrid or remote
 
@@ -25,7 +25,7 @@ I have 4+ years of experience building production software. At EduBrite (later a
 - **[Next Stop Adelaide](https://ashween.space/projects/next-stop-adelaide "Ctrl/Cmd-click to open in a new tab")** · [live ↗](https://next-stop-zeta-nine.vercel.app "Ctrl/Cmd-click to open in a new tab"): pick your bus or tram stop and lock your phone. A Cloudflare Worker follows the vehicle on Adelaide Metro's live feeds and sends push notifications 2–5 minutes before you arrive.
 - **[TracePay](https://ashween.space/projects/tracepay "Ctrl/Cmd-click to open in a new tab")** · [live ↗](https://tracepay-eight.vercel.app "Ctrl/Cmd-click to open in a new tab"): every Apple Pay tap goes to a webhook through iOS Shortcuts. A Next.js dashboard breaks spending down by category and merchant, flags duplicate taps, and exports statements in 5 languages.
 - **[Splitkit](https://ashween.space/projects/splitkit "Ctrl/Cmd-click to open in a new tab")** · [live ↗](https://splitkit-gray.vercel.app "Ctrl/Cmd-click to open in a new tab"): group expense splitting with no sign-up wall, multi-currency support, and a debt-simplification algorithm that settles a group in at most n − 1 payments.
-- **[MigraTrack AU](https://ashween.space/projects/migratrack-au "Ctrl/Cmd-click to open in a new tab")**: tracks SkillSelect EOI invitations by occupation, points and state, with points calculators for every state and territory.
+- **[MigraTrack AU](https://ashween.space/projects/migratrack-au "Ctrl/Cmd-click to open in a new tab")** · [live ↗](https://migratrackau.ashween.space/public "Ctrl/Cmd-click to open in a new tab"): tracks SkillSelect EOI invitations by occupation, points and state, with points calculators for every state and territory.
 - **[MyOrbit](https://ashween.space/projects/myorbit "Ctrl/Cmd-click to open in a new tab")**: a $0 self-hosted cloud drive that runs on one Mac. I hand-wrote the WebDAV server so it mounts in Finder, Explorer and Linux. It sits behind Cloudflare Tunnel and Access.
 
 ### 🧠 Local-first LLM apps
@@ -35,15 +35,15 @@ I have 4+ years of experience building production software. At EduBrite (later a
 - **[NoveltyAI](https://github.com/achu1998/research-assistant "Ctrl/Cmd-click to open in a new tab")**: scans live literature, flags overlaps, and rewrites a proposal until it finds an original angle.
 - **[StudyBuddy](https://github.com/achu1998/study-buddy "Ctrl/Cmd-click to open in a new tab")**: turns course PDFs into offline study sessions with summaries, MCQs and Socratic prompts.
 
-<sub>Also: [LiveWell](https://ashween.space/projects/livewell "Ctrl/Cmd-click to open in a new tab") · [Age-Based Face Anonymisation](https://ashween.space/projects/video-face-anonymization "Ctrl/Cmd-click to open in a new tab") · [Flappy Bird RL Environment](https://ashween.space/projects/flappy-bird-rl "Ctrl/Cmd-click to open in a new tab"). All 15 projects: **[ashween.space/projects](https://ashween.space/projects "Ctrl/Cmd-click to open in a new tab")**</sub>
+<sub>Also: [LiveWell](https://ashween.space/projects/livewell "Ctrl/Cmd-click to open in a new tab") · [Age-Based Face Anonymisation](https://ashween.space/projects/video-face-anonymization "Ctrl/Cmd-click to open in a new tab") · [Flappy Bird RL Environment](https://ashween.space/projects/flappy-bird-rl "Ctrl/Cmd-click to open in a new tab"). All 17 projects: **[ashween.space/projects](https://ashween.space/projects "Ctrl/Cmd-click to open in a new tab")**</sub>
 
 ### 💼 Where I've shipped
 
 - **Allied AU** · SWE Intern (2025): AWS SES notifications, practitioner calendar and search on a Nuxt + Laravel health platform. Fixed NDIS booking and sign-up flows.
-- **LinkedIn** · Software Engineer, contingent (2022–24): led enhancements on Salesforce Trailhead Academy. Built QR-code cheat detection for LinkedIn Learning assessments.
-- **EduBrite Systems** (acquired by LinkedIn) · Full-Stack Developer (2020–22): built SaaS LMS features for Apple, Salesforce, MuleSoft and VMware.
+- **LinkedIn** · Software Engineer (Contingent Worker) (2022–24): led enhancements on Salesforce Trailhead Academy. Built QR-code cheat detection for LinkedIn Learning assessments.
+- **EduBrite Systems** (acquired by LinkedIn) · Full-Stack Developer (2020–22): built SaaS LMS features for Salesforce and VMware.
 
-<sub>Earlier: ICU Medical (raised Pytest coverage from 58% to 90% on an IV infusion pump) · IIT (ISM) Dhanbad research intern · Hundred Plus · [full resume](https://ashween.space/resume "Ctrl/Cmd-click to open in a new tab")</sub>
+<sub>Earlier: ICU Medical (Pytest suites for the Plum 360 Smart Infusion Pump, raising line coverage from 54% to 72%) · IIT (ISM) Dhanbad research intern · Hundred Plus · [full resume](https://ashween.space/resume "Ctrl/Cmd-click to open in a new tab")</sub>
 
 ### 🧰 Stack
 
